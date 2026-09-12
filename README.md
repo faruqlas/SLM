@@ -119,7 +119,7 @@ Generated responses must not be treated as medical advice or used as a substitut
 ---
 
 ## Project Structure
-A possible project structure is:
+This is the project structure:
 
 📁 data/
   * medical-advice-slm-challenge.zip
