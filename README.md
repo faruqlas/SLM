@@ -120,21 +120,20 @@ Generated responses must not be treated as medical advice or used as a substitut
 
 ## Project Structure
 A possible project structure is:
-main/
-│
-├── data/
-│   ├── medical-advice-slm-challenge.zip
-│   └── submission.csv
-│
-├── docs/
-│   └── data_card.pdf
-│   └── impact_statement.pdf
-│   └── problem_statement.pdf
-│   └── stakeholder_engagement.pdf
-│
-├── scripts
-│   └── c10_med_advice_slm.ipynb
-│   └── dataset-metadata.json
-│
-└── README.md
+
+📁 data/
+  * medical-advice-slm-challenge.zip
+  * submission.csv
+
+📁 docs/
+  - data_card.pdf
+  - impact_statement.pdf
+  - problem_statement.pdf
+  - stakeholder_engagement.pdf
+
+📁 scripts/
+  * c10_med_advice_slm.ipynb
+  * dataset-metadata.json
+
+📄 README.md
 
